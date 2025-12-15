@@ -12,6 +12,9 @@ body {
 
 .hero {
     background-color: #1F2937;
+}
+
+.container {
     padding: 0 10%;
 }
 
