@@ -78,6 +78,7 @@ body {
 
 .info {
     text-align: center;
+    padding-bottom: 7em
 }
 
 .info__title {
@@ -110,3 +111,27 @@ body {
 .info__image p {
     max-width: 150px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote__content {
+    padding: 7em 21em;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote__quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    text-align: left;
+}
+
+.quote__author {
+    text-align: right;
+    font-size: 18px;
+    color: #1F2937;
+    font-weight: 900;
+}   
